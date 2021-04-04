@@ -37,7 +37,6 @@
 <img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/6463980/28998869-97bca9dc-7a03-11e7-8a95-3bbe9c1f7926.png"/>
 
 <br />
----
  
 ### GitHub Stats
 
