@@ -29,6 +29,9 @@
 
 <img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/6463980/28998869-97bca9dc-7a03-11e7-8a95-3bbe9c1f7926.png"/>
 
+
+<img align="left" alt="GitHub" width="26px" src="https://alexisvt.gallerycdn.vsassets.io/extensions/alexisvt/flutter-snippets/0.0.2/1529817162825/Microsoft.VisualStudio.Services.Icons.Default"/>
+
 <br />
  
 ### GitHub Stats
