@@ -35,9 +35,11 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasaxena1&show_icons=true&theme=radical)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasaxena1&layout=compact)](https://github.com/shreyasaxena1/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+Use [show_owner](#customization) variable to include the repo's owner username
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://citizenchoice.in/
 [twitter]: https://twitter.com/_feelosopher
