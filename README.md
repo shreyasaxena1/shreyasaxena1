@@ -33,7 +33,7 @@
  
 ### GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shreyasaxena1&show_icons=true&hide_border=true" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasaxena1&show_icons=true&theme=radical)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasaxena1&layout=compact)](https://github.com/shreyasaxena1/github-readme-stats)
 
