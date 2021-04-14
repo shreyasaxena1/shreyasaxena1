@@ -43,5 +43,3 @@
 [linkedin]: https://www.linkedin.com/in/shreyasaxena
 [website]: https://citizenchoice.in
 
-
-![](https://komarev.com/ghpvc/?username=shreyasaxena1)
