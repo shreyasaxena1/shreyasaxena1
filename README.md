@@ -34,9 +34,9 @@
 
 <br />
  
-### GitHub Stats
+<!-- ### GitHub Stats
 
-  ![Shreya Saxena's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasaxena1&show_icons=true&theme=radical)
+  ![Shreya Saxena's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasaxena1&show_icons=true&theme=radical) -->
  
 
 [website]: https://citizenchoice.in/
